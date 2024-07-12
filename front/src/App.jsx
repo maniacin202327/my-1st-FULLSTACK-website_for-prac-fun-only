@@ -20,7 +20,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>ARRAYS of Arrays</h1>
+        <h1>ARRAYS of Arrays:</h1>
         <p>ARRAYS: {arrays.length}</p>  
       </div>
 
